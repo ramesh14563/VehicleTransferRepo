@@ -1,0 +1,8 @@
+C:\Users\rkolisetty\source\repos\Vehicles\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+C:\Users\rkolisetty\source\repos\Vehicles\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\rkolisetty\source\repos\Vehicles\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\rkolisetty\source\repos\Vehicles\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\rkolisetty\source\repos\Vehicles\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\rkolisetty\source\repos\Vehicles\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+C:\Users\rkolisetty\source\repos\Vehicles\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\rkolisetty\source\repos\Vehicles\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
